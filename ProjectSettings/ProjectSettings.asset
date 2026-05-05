@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 27
+  productGUID: a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 4
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: EverSalty
+  productName: Bloomkin
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  m_SplashScreenLogos: []
+  m_VirtualRealitySplashScreen: {fileID: 0}
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_StereoRenderingPath: 0
+  m_ActiveColorSpace: 1
+  m_MTRendering: 1
+  m_StackTraceTypes: 010000000100000001000000010000000100000001000000
+  iosShowActivityIndicatorOnLoading: -1
+  androidShowActivityIndicatorOnLoading: -1
+  displayResolutionDialog: 0
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDown: 0
+  allowedAutorotateToLandscapeRight: 1
+  allowedAutorotateToLandscapeLeft: 1
+  useOSAutorotation: 1
+  use32BitDisplayBuffer: 1
+  preserveFramebufferAlpha: 0
+  disableDepthAndStencilBuffers: 0
+  androidStartInFullscreen: 1
+  androidRenderOutsideSafeArea: 1
+  androidUseSwappy: 1
+  androidBlitType: 0
+  androidResizableWindow: 0
+  androidDefaultWindowWidth: 1920
+  androidDefaultWindowHeight: 1080
+  androidMinimumWindowWidth: 400
+  androidMinimumWindowHeight: 300
+  androidFullscreenMode: 1
+  defaultIsNativeResolution: 1
+  macRetinaSupport: 1
+  runInBackground: 1
+  captureScreenshot: 1
+  forceSingleInstance: 0
+  usePlayerLog: 1
+  resizableWindow: 0
+  useMacAppStoreValidation: 0
+  macAppStoreCategory: public.app-category.games
+  gpuSkinning: 0
+  graphicsJobs: 0
+  graphicsJobMode: 0
+  enableFrameTimingStats: 0
+  enableOpenGLProfilerGPURecorders: 1
+  useHDRDisplay: 0
+  hdrBitDepth: 0
+  m_ColorGamuts: 00000000
+  targetPixelDensity: 30
+  resolutionScalingMode: 0
+  resetResolutionOnWindowResize: 0
+  applicationIdentifier:
+    Standalone: com.EverSalty.Bloomkin
+    iPhone: com.EverSalty.Bloomkin
+    Android: com.EverSalty.Bloomkin
+    WebGL: com.EverSalty.Bloomkin
+  buildNumber:
+    Standalone: 0
+    iPhone: 0
+    tvOS: 0
+  overrideDefaultApplicationIdentifier: 0
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 22
+  AndroidTargetSdkVersion: 34
+  AndroidExportType: 0
+  androidAttributeApplicationIsGame: 1
+  AndroidApplicationEntry: 3
+  AndroidRenderingAPI: 1
+  stripUnusedMeshComponents: 1
+  strictShaderVariantMatching: 0
+  iPhoneSdkVersion: 988
+  iOSTargetOSVersionString: 13.0
+  tvOSSdkVersion: 0
+  tvOSTargetOSVersionString: 13.0
+  uIPrerenderedIcon: 0
+  uIRequiresPersistentWifi: 0
+  uIRequiresFullScreen: 1
+  uIStatusBarHidden: 1
+  uIExitOnSuspend: 0
+  uIStatusBarStyle: 0
+  iPhoneSplashScreen: {fileID: 0}
+  metalEditorSupport: 1
+  metalAPIValidation: 1
+  iOSRenderExtraFrameOnPause: 0
+  iOSAppInBackgroundBehavior: 0
+  appleDeveloperTeamID:
+  appleEnableAutomaticSigning: 0
+  shaderPrecisionModel: 0
+  uploadSymbols: 0
+  allowUnsafeCode: 0
+  additionalIl2CppArgs:
+  gcIncremental: 1
+  assemblyVersionValidation: 1
+  managedStrippingLevel:
+    Standalone: 1
+    Server: 1
+  useFlipModelSwapchain: 1
+  openGLRequireES31: 0
+  openGLRequireES31AEP: 0
+  openGLRequireES32: 0
+  m_TemplateCustomTags: {}
+  mobileMTRendering:
+    iPhone: 1
+    Android: 1
+  m_BuildTargetVulkanSettings: []
+  m_BuildTargetGraphicsSettings: []
+  bakeCollisionMeshes: 0
+  forcedRenderingPath: 0
+  disableStatistics: 0
+  m_BuildTargetIcons: []
+  m_BuildTargetPlatformIcons: []
+  m_AuthToken:
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  m_ActiveInputHandler: 1
+  m_IncrementalIlluminationBake: 1
+  m_EmbedCertificates: 0
+  versionLabel: 0.1.0
+  bundleVersion: 0.1.0
+  preloadedAssets: []
+  visibleInBackground: 1
+  allowFullscreenSwitch: 1
+  fullscreenMode: 1
+  dedicatedServerOptimizations: 0
+  webGLMemorySize: 32
+  webGLExceptionSupport: 1
+  webGLNameFilesAsHashes: 0
+  webGLDataCaching: 1
+  webGLDebugSymbols: 0
+  webGLEmscriptenArgs:
+  webGLTemplate: APPLICATION:Default
+  webGLAnalyzeBuildSize: 0
+  webGLUseEmbeddedResources: 0
+  webGLCompressionFormat: 1
+  webGLWasmArithmeticExceptions: 0
+  webGLLinkerTarget: 1
+  webGLThreadsSupport: 0
+  webGLDecompressionFallback: 0
+  webGLPowerPreference: 2
+  scriptingDefineSymbols:
+    Standalone:
+  additionalCompilerArguments:
+    Standalone:
+  platformArchitecture: {}
+  scriptingBackend:
+    Standalone: 0
+  il2cppCompilerConfiguration:
+    Standalone: 0
+  il2cppCodeGeneration:
+    Standalone: 0
+  m_DefaultShaderChunkSizeInMB: 16
+  m_DefaultShaderChunkCount: 0
+  numberOfMipsStripped: 0
+  m_SupportedAspectRatios:
+    4:3: 1
+    5:4: 1
+    16:10: 1
+    16:9: 1
+    Others: 1
+  firstStreamedLevelWithResources: 0
+  m_HdrOutputSettings:
+  - serializedVersion: 2
+    m_Mode: 0
+    m_MinToneMapLuminance: 0
+    m_MaxToneMapLuminance: 1000
+    m_AutoCalibrationLuminance: 160
+  cloudProjectId:
+  framebufferDepthMemorylessMode: 0
+  submitAnalytics: 1
+  useCustomMainManifest: 0
+  useCustomLauncherManifest: 0
+  useCustomMainGradleTemplate: 0
+  useCustomLauncherGradleTemplate: 0
+  useCustomBaseGradleTemplate: 0
+  useCustomGradlePropertiesTemplate: 0
+  useCustomProguardFile: 0
+  AndroidTargetArchitectures: 1
+  AndroidTargetDevices: 0
+  AndroidSplashScreenScale: 0
+  androidSplashScreen: {fileID: 0}
+  AndroidKeystoreName:
+  AndroidKeyaliasName:
+  AndroidBuildApkPerCpuArchitecture: 0
+  AndroidTVCompatibility: 0
+  AndroidIsGame: 1
+  AndroidEnableGamepadSupport: 1
+  androidEnableBanner: 1
+  m_AndroidBanners: []
+  androidGamepadSupportLevel: 0
+  AndroidLicensePublicKey:
+  AndroidMaxTextureSizeOverride: 0
+  AndroidValidateAppBundleSize: 1
+  AndroidAppBundleSizeToValidate: 150
+  m_BuildTargetGroup: 1
+  m_LastGraphicsJobsMode: 1
+  m_GraphicsJobModePerGraphicsAPI: []
+  macOSURLSchemes: []
+  m_PluginImporterSelection: {}
+  m_EditorAssembliesCompatibilityLevel: 0
